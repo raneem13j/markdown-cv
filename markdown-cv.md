@@ -74,7 +74,7 @@ Pharmacist:
 * Native Arabic
   
 ### Hobbies
- Basketball, Drawing
+ Basketball, Drawing, Reading
 
 ---
 ## Html code for the CV
