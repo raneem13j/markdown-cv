@@ -1,7 +1,10 @@
+![picture](https://github.com/raneem13j/markdown-cv/blob/Raneem-Aljamal/Screenshot%20from%202022-11-27%2010-16-21.png)
+
 # **RANEEM ALJAMAL**
 ## Beirut – Lebanon
 ## 00961 76 707301
 ## aljamal.raneem@gmail.com
+
 ---
 ### **Objective**
 Authorized pharmacist with double bachelor’s in pharmacy, chemistry, and many years
